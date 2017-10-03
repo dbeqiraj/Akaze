@@ -1,5 +1,5 @@
 # Akaze
-Akaze matching (OpenCV) implementation in Android
+Feature matching with Akaze (OpenCV). Implementation in Android.
 
 ## Description
 
