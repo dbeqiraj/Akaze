@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Akaze</string>
+    <string name="permission_required">Grant the required permission to continue!</string>
+</resources>
