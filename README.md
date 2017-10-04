@@ -18,7 +18,7 @@ Starting from <a target="_blank" href="http://docs.opencv.org/3.3.0/db/d70/tutor
 <ol>
   <li>Download/Clone the project</li>
   <li>Download OpenCv <i>Android Pack</i> from <a target="_blank" href="http://opencv.org/releases.html">here</a> (I have used release 3.3.0)</li>
-  <li>In your android project create two folders: <b>jniLibs</b> and <b>cppThirdParty</b>. 
+  <li>In your android project create two folders: <b>jniLibs</b> and <b>cppThirdParty</b> in the main directory. 
   You can use other names (most likely for <b>cppThirdParty</b> folder) but then you have to change the references in <b>CMakeLists.txt</b> and <b>build.gradle</b></li>
   <li>Browse to your <i>Android Pack</i> folder downloaded in step 2 and copy <i>libs</i> (<i>sdk/native/libs</i>) 
   content to the folder <b>jniLibs</b></li>
