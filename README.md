@@ -5,7 +5,7 @@ Feature matching with Akaze (OpenCV). Implementation in Android.
 
 This is an implentation of feature matching using Akaze from OpenCV in Android. 
 In the documentation of OpenCV and other sources there are many examples in C++ or Python but, when it comes to Java or Android
-many developers face problems about how to use C++ code in Android, how to pass complex objects (here you can see how to pass a <i>HashMap</i>) as arguments 
+many developers face problems about how to use C++ code in Android, how to pass complex objects (here you can see how to pass a <i>HashMap</i>) as parameters 
 from Java to native code and vice versa, etc.
 
 Starting from <a target="_blank" href="http://docs.opencv.org/3.3.0/db/d70/tutorial_akaze_matching.html">this</a>, I tried to bring the same output in Android.
