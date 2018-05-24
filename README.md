@@ -11,7 +11,7 @@ from Java to native code and vice versa, etc.
 Starting from <a target="_blank" href="http://docs.opencv.org/3.3.0/db/d70/tutorial_akaze_matching.html">this</a>, I tried to bring the same output in Android.
 
 ## Output
-  <img src="https://www.photobox.co.uk/my/photo/full?photo_id=500796770793" width="350"/>
+  <img src="http://i.imgur.com/oQumb8V.png" width="350"/>
   
 ## Setup
 
